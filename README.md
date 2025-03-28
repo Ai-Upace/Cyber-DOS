@@ -26,7 +26,7 @@ struct CyberFS {
     Directory entries;     // 8.3 filename format
     Sector-level RW;       // INT 0x13 disk services
 };
-
+```
 ### 🖥️ Shell Interface
 ```asm
 CYBER-SHELL> 
