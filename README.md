@@ -1,4 +1,3 @@
-```markdown
 # Cyber-DOS 0.1 - 16-bit Experimental Operating System
 
 ![ASM](https://img.shields.io/badge/Assembly-100%25-red)
@@ -27,7 +26,6 @@ struct CyberFS {
     Directory entries;     // 8.3 filename format
     Sector-level RW;       // INT 0x13 disk services
 };
-```
 
 ### 🖥️ Shell Interface
 ```asm
