@@ -98,7 +98,7 @@ Submit PRs via carrier pigeon or:
 
 ## 📄 License
 This project is licensed under the **GNU GPLv3** - see [LICENSE.md](LICENSE) for details.
-
+```
 > **Warning**  
 > Not responsible for spontaneous combustion of legacy hardware.  
 > BIOS exorcism recommended before deployment.
