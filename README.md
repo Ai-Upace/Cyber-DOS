@@ -1,7 +1,3 @@
-Here's a professional GitHub README draft for your Cyber-DOS operating system:
-
----
-
 # Cyber-DOS  
 **A Retro-Modern Operating System Evolution**  
 *From 16-bit Real Mode to Protected Mode GUI Ecosystem*
